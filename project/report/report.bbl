@@ -1,0 +1,216 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{liver}{online}{}
+      \name{author}{1}{}{%
+        {{hash=1462f6ec8abb52cc4a23f147dbfa2292}{%
+           family={Mikstas},
+           familyi={M\bibinitperiod},
+           given={Christine},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{1462f6ec8abb52cc4a23f147dbfa2292}
+      \strng{fullhash}{1462f6ec8abb52cc4a23f147dbfa2292}
+      \strng{bibnamehash}{1462f6ec8abb52cc4a23f147dbfa2292}
+      \strng{authorbibnamehash}{1462f6ec8abb52cc4a23f147dbfa2292}
+      \strng{authornamehash}{1462f6ec8abb52cc4a23f147dbfa2292}
+      \strng{authorfullhash}{1462f6ec8abb52cc4a23f147dbfa2292}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Liver: Is It Good for You?}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.webmd.com/diet/liver-good-for-you
+      \endverb
+      \verb{url}
+      \verb https://www.webmd.com/diet/liver-good-for-you
+      \endverb
+      \warn{\item Entry 'liver' (bibliography.bib): Invalid format '2023-5-31' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{cellwise}{manual}{}
+      \name{author}{2}{}{%
+        {{hash=4ee2c69f14c457efc36df63b99b553bc}{%
+           family={Raymaekers},
+           familyi={R\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bbd4b301a3a938b19b510082dd0b797f}{%
+           family={Rousseeuw},
+           familyi={R\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{c90634b41b54f212000cdd0c562f014c}
+      \strng{fullhash}{c90634b41b54f212000cdd0c562f014c}
+      \strng{bibnamehash}{c90634b41b54f212000cdd0c562f014c}
+      \strng{authorbibnamehash}{c90634b41b54f212000cdd0c562f014c}
+      \strng{authornamehash}{c90634b41b54f212000cdd0c562f014c}
+      \strng{authorfullhash}{c90634b41b54f212000cdd0c562f014c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{R package version 2.5.0}
+      \field{title}{cellWise: Analyzing Data with Cellwise Outliers}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://CRAN.R-project.org/package=cellWise
+      \endverb
+      \verb{url}
+      \verb https://CRAN.R-project.org/package=cellWise
+      \endverb
+    \endentry
+    \entry{rrcov}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=42c478fc32001f908a19c52b529c4039}{%
+           family={Todorov},
+           familyi={T\bibinitperiod},
+           given={Valentin},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{42c478fc32001f908a19c52b529c4039}
+      \strng{fullhash}{42c478fc32001f908a19c52b529c4039}
+      \strng{bibnamehash}{42c478fc32001f908a19c52b529c4039}
+      \strng{authorbibnamehash}{42c478fc32001f908a19c52b529c4039}
+      \strng{authornamehash}{42c478fc32001f908a19c52b529c4039}
+      \strng{authorfullhash}{42c478fc32001f908a19c52b529c4039}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{R package version 1.7-2}
+      \field{title}{rrcov: Scalable Robust Estimators with High Breakdown Point}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://CRAN.R-project.org/package=rrcov
+      \endverb
+      \verb{url}
+      \verb https://CRAN.R-project.org/package=rrcov
+      \endverb
+    \endentry
+    \entry{usdanutrients}{online}{}
+      \name{author}{1}{}{%
+        {{hash=1d0f6977ce2d043e298a59a1cd75b7ef}{%
+           family={Wickham},
+           familyi={W\bibinitperiod},
+           given={Hadley},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d0f6977ce2d043e298a59a1cd75b7ef}
+      \strng{fullhash}{1d0f6977ce2d043e298a59a1cd75b7ef}
+      \strng{bibnamehash}{1d0f6977ce2d043e298a59a1cd75b7ef}
+      \strng{authorbibnamehash}{1d0f6977ce2d043e298a59a1cd75b7ef}
+      \strng{authornamehash}{1d0f6977ce2d043e298a59a1cd75b7ef}
+      \strng{authorfullhash}{1d0f6977ce2d043e298a59a1cd75b7ef}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{USDA Nutrients}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://github.com/hadley/usdanutrients
+      \endverb
+      \verb{url}
+      \verb https://github.com/hadley/usdanutrients
+      \endverb
+      \warn{\item Entry 'usdanutrients' (bibliography.bib): Invalid format '2023-5-31' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{aer}{book}{}
+      \name{author}{2}{}{%
+        {{hash=7bb1aed2f80d791ded7713d375bc4a5f}{%
+           family={Kleiber},
+           familyi={K\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9b2b213ce13e040cff6fc8714922a812}{%
+           family={Zeileis},
+           familyi={Z\bibinitperiod},
+           given={Achim},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{608b9a39ffeab4adf9c51b66aa27ad45}
+      \strng{fullhash}{608b9a39ffeab4adf9c51b66aa27ad45}
+      \strng{bibnamehash}{608b9a39ffeab4adf9c51b66aa27ad45}
+      \strng{authorbibnamehash}{608b9a39ffeab4adf9c51b66aa27ad45}
+      \strng{authornamehash}{608b9a39ffeab4adf9c51b66aa27ad45}
+      \strng{authorfullhash}{608b9a39ffeab4adf9c51b66aa27ad45}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{{ISBN} 978-0-387-77316-2}
+      \field{title}{Applied Econometrics with {R}}
+      \field{year}{2008}
+      \verb{urlraw}
+      \verb https://CRAN.R-project.org/package=AER
+      \endverb
+      \verb{url}
+      \verb https://CRAN.R-project.org/package=AER
+      \endverb
+    \endentry
+    \entry{cameron}{article}{}
+      \name{author}{2}{}{%
+        {{hash=dab37900e0b3d1bbd6b945d99fef4b06}{%
+           family={Cameron},
+           familyi={C\bibinitperiod},
+           given={A.Colin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1828613c534b16d7b5a650c96a8c2595}{%
+           family={Trivedi},
+           familyi={T\bibinitperiod},
+           given={Pravin\bibnamedelima K.},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{c9ed462534b8f45616884f53043295aa}
+      \strng{fullhash}{c9ed462534b8f45616884f53043295aa}
+      \strng{bibnamehash}{c9ed462534b8f45616884f53043295aa}
+      \strng{authorbibnamehash}{c9ed462534b8f45616884f53043295aa}
+      \strng{authornamehash}{c9ed462534b8f45616884f53043295aa}
+      \strng{authorfullhash}{c9ed462534b8f45616884f53043295aa}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0304-4076}
+      \field{journaltitle}{Journal of Econometrics}
+      \field{number}{3}
+      \field{title}{Regression-based tests for overdispersion in the Poisson model}
+      \field{volume}{46}
+      \field{year}{1990}
+      \field{pages}{347\bibrangedash 364}
+      \range{pages}{18}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0304-4076(90)90014-K
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

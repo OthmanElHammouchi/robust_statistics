@@ -1,0 +1,5 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'text.blg'
+[34] biber:340> INFO - === Wed May  3, 2023, 22:35:26
+[111] Utils.pm:398> ERROR - Cannot find 'text.bcf'!
+[111] Biber.pm:135> INFO - ERRORS: 1
